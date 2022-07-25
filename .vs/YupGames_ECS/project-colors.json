@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6555a2da-b779-4a9f-9b02-44787779f89b": {
+      "ProjectGuid": "6555a2da-b779-4a9f-9b02-44787779f89b",
+      "DisplayName": "YupGames_ECS",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,14 @@
+C:\Users\yup_c\source\repos\YupGames_ECS\YupGames_ECS\bin\Debug\net6.0\YupGames_ECS.deps.json
+C:\Users\yup_c\source\repos\YupGames_ECS\YupGames_ECS\bin\Debug\net6.0\YupGames_ECS.dll
+C:\Users\yup_c\source\repos\YupGames_ECS\YupGames_ECS\bin\Debug\net6.0\ref\YupGames_ECS.dll
+C:\Users\yup_c\source\repos\YupGames_ECS\YupGames_ECS\bin\Debug\net6.0\YupGames_ECS.pdb
+C:\Users\yup_c\source\repos\YupGames_ECS\YupGames_ECS\obj\Debug\net6.0\YupGames_ECS.csproj.AssemblyReference.cache
+C:\Users\yup_c\source\repos\YupGames_ECS\YupGames_ECS\obj\Debug\net6.0\YupGames_ECS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yup_c\source\repos\YupGames_ECS\YupGames_ECS\obj\Debug\net6.0\YupGames_ECS.AssemblyInfoInputs.cache
+C:\Users\yup_c\source\repos\YupGames_ECS\YupGames_ECS\obj\Debug\net6.0\YupGames_ECS.AssemblyInfo.cs
+C:\Users\yup_c\source\repos\YupGames_ECS\YupGames_ECS\obj\Debug\net6.0\YupGames_ECS.csproj.CoreCompileInputs.cache
+C:\Users\yup_c\source\repos\YupGames_ECS\YupGames_ECS\obj\Debug\net6.0\YupGames_ECS.csproj.CopyComplete
+C:\Users\yup_c\source\repos\YupGames_ECS\YupGames_ECS\obj\Debug\net6.0\YupGames_ECS.dll
+C:\Users\yup_c\source\repos\YupGames_ECS\YupGames_ECS\obj\Debug\net6.0\ref\YupGames_ECS.dll
+C:\Users\yup_c\source\repos\YupGames_ECS\YupGames_ECS\obj\Debug\net6.0\YupGames_ECS.pdb
+C:\Users\yup_c\source\repos\YupGames_ECS\YupGames_ECS\bin\Debug\net6.0\Newtonsoft.Json.dll
